@@ -4,15 +4,15 @@
 
 ## 📸 Preview
 
-<p align="center"><b>Interface Web para Desktop</b></p>
+<p align="center"><b>Interface Web</b></p>
 <p align="center">
-  <img src="img/preview.png" alt="Landing Page Proffy in Web" />
-  <img src="img/preview2.png" alt="Landing Page Proffy in Web" />
+  <img width="450" src="img/preview.png" alt="Landing Page Proffy in Web" />
+  <img width="450" src="img/preview2.png" alt="Landing Page Proffy in Web" />
 </p>
 <p align="center"><b>Interface Mobile</b></p>
 <p align="center">
-  <img src="img/preview-mobile.png" alt="Landing Page Proffy in Mobile" />
-  <img src="img/preview-mobile2.png" alt="Landing Page Proffy in Mobile" />
+  <img height="450" src="img/preview-mobile.png" alt="Landing Page Proffy in Mobile" />
+  <img height="450" src="img/preview-mobile2.png" alt="Landing Page Proffy in Mobile" />
 </p>
 
 ## 🛠 Tecnologias
